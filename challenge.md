@@ -25,7 +25,7 @@ Use the technology stack you are comfortable with to design and build an API tha
 - Each endpoint should have its own test
 
 ### Bonus:
-- Implement using GraphQl instead of RESTFUL
+- Create a GraphQL API instead of RESTful API
 
 
 ## Instructions
